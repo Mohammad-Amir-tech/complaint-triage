@@ -10,6 +10,10 @@ AI Complaint Triage Agent is a web application built for district-level civic ad
 
 The MVP is a fully self-contained frontend application. It requires no backend server, no database, and no API keys — all analysis runs client-side, and complaint records persist locally using the browser's `localStorage`.
 
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-2A4E7A?style=for-the-badge)](https://ai-complaint-triage-agent.netlify.app)
+
+
 ## 2. Problem Statement
 
 Public grievance cells in India and elsewhere receive a high volume of complaints across very different domains — water supply, electricity, sanitation, law and order, corruption, and more. Manually reading, classifying, prioritizing, and routing each complaint to the right department is slow and inconsistent, which delays urgent cases (e.g. a health hazard or safety threat) behind routine ones.
