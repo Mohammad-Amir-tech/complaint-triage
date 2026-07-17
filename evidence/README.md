@@ -14,8 +14,6 @@ This folder contains visual proof of the working application for hackathon judgi
 | `06-search-and-filters.png` | Dashboard with the search bar and priority/category filters in use, showing a filtered subset of complaints. |
 | `demo-recording.mp4` | Short screen recording (~1–2 minutes) walking through the full flow: filing a complaint → AI analysis running → viewing the case report → seeing it appear on the dashboard → searching/filtering → refreshing the page to show data persistence. |
 
-## How to reproduce this evidence
+# AI Complaint Triage Agent
 
-1. Run the app locally (`npm run dev`) or open the deployed URL.
-2. Follow the screenshot checklist (`screenshot-checklist.md`) in order — it mirrors the numbered files above.
-3. For the recording, narrate or caption each step briefly so judges can follow the flow without needing to test it live.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-2A4E7A?style=for-the-badge)](https://ai-complaint-triage-agent.netlify.app/)
